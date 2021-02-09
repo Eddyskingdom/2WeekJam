@@ -1172,3 +1172,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.09-13.58.51:358][730]LogContentBrowser: Creating deferred item: NewFolder
 [2021.02.09-13.58.58:146][138]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
 [2021.02.09-13.58.58:146][138]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-14.00.23:072][181]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Github_D/2WeekJam/WeekJamProject/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.02.09-14.00.23:404][182]LogFileManager: Warning: DeleteFile recovered during retry!
