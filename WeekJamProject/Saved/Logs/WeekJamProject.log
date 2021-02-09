@@ -1129,3 +1129,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.09-10.48.56:077][827]LogContentBrowser: Creating deferred item: NewFolder
 [2021.02.09-10.48.58:600][979]LogContentBrowser: Attempting asset rename: NewFolder -> Jarno
 [2021.02.09-10.48.58:600][979]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.51.46:800][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.09-10.51.47:179][ 70]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonExampleMap_Auto1D06890FC4EB929A4B0B718B8758D086E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Autosaves/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.02.09-10.51.47:189][ 70]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.404
+[2021.02.09-10.51.47:189][ 70]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.404
