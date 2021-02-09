@@ -790,3 +790,342 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.09-10.23.33:763][  0]LogAssetRegistry: Asset discovery search completed in 9.2472 seconds
 [2021.02.09-10.23.33:765][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2021.02.09-10.23.33:765][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.09-10.37.20:771][479]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.37.20:784][479]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.37.33:737][255]LogContentBrowser: Attempting asset rename: NewFolder -> BluePrints
+[2021.02.09-10.37.33:737][255]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.37.42:923][798]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.37.42:935][798]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.37.46:073][987]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.02.09-10.37.46:074][987]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.40.35:614][405]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.40.35:627][405]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.40.47:037][ 90]LogContentBrowser: Attempting asset rename: NewFolder -> DefaultContent
+[2021.02.09-10.40.47:038][ 90]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.40.55:820][609]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.40.55:843][609]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.41.09:899][453]LogContentBrowser: Attempting asset rename: NewFolder -> MyGame
+[2021.02.09-10.41.09:899][453]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.41.39:289][201]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.09-10.41.39:388][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/ThirdPerson/Meshes/RampMaterial" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/RampMaterial.uasset" SILENT=true
+[2021.02.09-10.41.39:402][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/RampMaterial5B6B02DD4E612F701356F7A58A47BFCF.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/RampMaterial.uasset'
+[2021.02.09-10.41.39:720][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Bump_StaticMeshE77C66554FEFEBC2A14F5187A222D61D.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2021.02.09-10.41.39:721][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Bump_StaticMesh" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" SILENT=true
+[2021.02.09-10.41.39:731][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Bump_StaticMesh7AB50C134ECCBAF4EA1797BD5A2D2B6C.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2021.02.09-10.41.39:757][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/LeftArm_StaticMeshBE8D1B5A4EBED6B9F6FE938DD614837E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2021.02.09-10.41.39:758][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/LeftArm_StaticMesh" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" SILENT=true
+[2021.02.09-10.41.39:766][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/LeftArm_StaticMeshF1B073D240291C8BA7CCE38DBBE737E7.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2021.02.09-10.41.39:792][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Linear_Stair_StaticMeshE91F575E458176A8262ED8A4DB7C5213.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2021.02.09-10.41.39:793][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" SILENT=true
+[2021.02.09-10.41.39:800][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Linear_Stair_StaticMesh2EC5D88C497A2AC515480D9A3015D5A8.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2021.02.09-10.41.39:823][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Ramp_StaticMeshCD0B9F264D9AF2394E76C684778B268E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2021.02.09-10.41.39:824][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Ramp_StaticMesh" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" SILENT=true
+[2021.02.09-10.41.39:831][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Ramp_StaticMeshF863E2284E045C7FA6040C99B4A4F3D0.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2021.02.09-10.41.39:856][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/RightArm_StaticMesh15FD7A184B7AA6FA93E7A99BDFB2AEF8.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2021.02.09-10.41.39:858][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/RightArm_StaticMesh" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" SILENT=true
+[2021.02.09-10.41.39:865][201]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/RightArm_StaticMesh89DF4F7A4C64F5B727A6E3A61BC28FD9.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2021.02.09-10.41.39:924][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.09-10.41.39:937][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.09-10.41.39:942][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.09-10.41.39:982][201]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating Material /Game/DefaultContent/ThirdPerson/Meshes/RampMaterial.RampMaterial
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2021.02.09-10.41.39:982][201]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:346][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.02.09-10.41.46:355][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2021.02.09-10.41.46:355][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2021.02.09-10.41.46:355][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2021.02.09-10.41.46:356][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2021.02.09-10.41.46:356][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2021.02.09-10.41.46:356][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2021.02.09-10.41.46:356][569]LogMetaData: Removing '/Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2021.02.09-10.41.46:500][569]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonExampleMap_BuiltDataBA24095F41DA477407151BAA3C9591F8.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.09-10.41.46:557][569]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonCharacter2F8439F244539A049202DEBF9CD7171F.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.09-10.41.46:565][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.09-10.41.47:728][569]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonExampleMap7365862C4A510A3AFD0310AF5BB10204.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.09-10.41.47:747][569]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.190
+[2021.02.09-10.41.47:748][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/ThirdPersonBP/ThirdPersonOverview" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2021.02.09-10.41.47:764][569]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonOverview20F6D3844CEF5ADCDAF2399ADC574A9D.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2021.02.09-10.41.47:774][569]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonGameMode019DF90C4451D1C94FB613B81364AF4C.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2021.02.09-10.41.47:880][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.09-10.41.47:885][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.09-10.41.47:891][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.02.09-10.41.47:897][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.02.09-10.41.47:902][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.02.09-10.41.47:918][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.02.09-10.41.47:925][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.09-10.41.47:967][569]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.09-10.41.47:967][569]LogContentValidation: Display: Validating Blueprint /Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.09-10.41.47:967][569]LogContentValidation: Display: Validating Blueprint /Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.02.09-10.41.47:967][569]LogContentValidation: Display: Validating Blueprint /Game/DefaultContent/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2021.02.09-10.41.47:967][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.09-10.41.47:967][569]LogContentValidation: Display: Validating World /Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.09-10.42.22:275][538]LogSlate: Window 'Content Browser' being destroyed
+[2021.02.09-10.42.22:280][538]LogSlate: Window 'Content Browser' being destroyed
+[2021.02.09-10.43.00:525][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.09-10.43.09:164][778]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.09-10.43.09:233][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.09-10.43.30:844][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/Geometry/Meshes/CubeMaterial" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2021.02.09-10.43.30:860][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/CubeMaterialDA604B4949A4F5708076C1A30E3A3F85.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/CubeMaterial.uasset'
+[2021.02.09-10.43.30:871][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/Geometry/Meshes/1M_Cube" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2021.02.09-10.43.30:887][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/1M_Cube0BC7F88F41113ECF1F4D2BB1EA16AE87.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/1M_Cube.uasset'
+[2021.02.09-10.43.30:887][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2021.02.09-10.43.30:895][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/1M_CubeA4B2FF3B4C03F3152CBEACACA2821336.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/1M_Cube.uasset'
+[2021.02.09-10.43.30:910][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/Geometry/Meshes/1M_Cube_Chamfer" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2021.02.09-10.43.30:925][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/1M_Cube_Chamfer7143DFD84F76933053E6618AD518ADC6.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2021.02.09-10.43.30:926][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Chamfer" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2021.02.09-10.43.30:932][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/1M_Cube_Chamfer7077258E47188ABF3D484AB06FDE172D.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2021.02.09-10.43.30:945][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/Geometry/Meshes/TemplateFloor" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2021.02.09-10.43.30:961][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/TemplateFloor303CE0F545059EC4C0638CA16F0E7609.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Geometry/Meshes/TemplateFloor.uasset'
+[2021.02.09-10.43.30:961][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2021.02.09-10.43.30:968][ 57]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/TemplateFloorCB51C0EF4A444BF32547FD950EDF7829.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2021.02.09-10.43.31:031][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.09-10.43.31:050][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.09-10.43.31:058][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.02.09-10.43.31:105][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating ObjectRedirector /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating ObjectRedirector /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating Material /Game/DefaultContent/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating StaticMesh /Game/DefaultContent/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2021.02.09-10.43.31:105][ 57]LogContentValidation: Display: Validating ObjectRedirector /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.02.09-10.43.35:616][314]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.02.09-10.43.35:649][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton' ref from Metadata '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:650][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2021.02.09-10.43.35:708][314]LogMetaData: Removing '/Game/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female' ref from Metadata '/Game/Mannequin/Character/Mesh/SK_Mannequin_Female.PackageMetaData'
+[2021.02.09-10.43.35:799][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPerson_IdleRun_2D4072686044B20982FB013D935801785A.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2021.02.09-10.43.36:378][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonWalkED1CB8E341EAC42AEA2F4F9B225C2547.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2021.02.09-10.43.36:410][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonRunAE9B6BCF41BD6C5ADCE554B185CE7A39.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonRun.uasset'
+[2021.02.09-10.43.36:440][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonIdleC823BB944AD69EA288891289DD9AA273.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2021.02.09-10.43.36:483][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonJump_Start304E6F634B6609B4E03C1F84E6A84043.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2021.02.09-10.43.36:522][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonJump_Loop798A13E74E5FEBAAE872FBBAF356BD27.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2021.02.09-10.43.36:607][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPerson_Jump65ABFD4C43A79A1E983A9A9A98DDCFDA.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2021.02.09-10.43.36:616][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/UE4_Mannequin_SkeletonEE20D2D444D8973578D9068172AEAE1E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.02.09-10.43.36:676][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPerson_AnimBPCE81BEF044D982D493C84DBE5F57120E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.02.09-10.43.36:712][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_ML_Rubber_Blue_01_D08B721A5496AADDDACF8F3A34FD7A9B1.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2021.02.09-10.43.36:735][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_ML_Rubber_Blue_01_N99C77BBF4BA402F77EE3D3A4CB1F47B8.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2021.02.09-10.43.36:765][314]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.09-10.43.36:850][314]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.09-10.43.36:886][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ML_GlossyBlack_Latex_UE460393E5C4EE674EA116860B5EF7F5ACD.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2021.02.09-10.43.36:888][314]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.09-10.43.36:937][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ML_Plastic_Shiny_Beige847172D54B21A3F087A5719332A3DC36.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2021.02.09-10.43.36:971][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_UE4Logo_Mask2933D20446B6CE2371934E968E55B6FB.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset'
+[2021.02.09-10.43.36:974][314]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.09-10.43.37:035][314]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 68
+[2021.02.09-10.43.37:067][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ML_Plastic_Shiny_Beige_LOGO34DADC7E467E52E8F117E286B5009220.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2021.02.09-10.43.37:107][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_ML_Aluminum015FC4EC1E438373B0F5DC9FB46E3B2679.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2021.02.09-10.43.37:137][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_ML_Aluminum01_NE856CF574A8942ACBD163B841A9FF581.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2021.02.09-10.43.37:139][314]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.09-10.43.37:221][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ML_SoftMetal_UE49463EEC343636E3B9A1526B046EF4198.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2021.02.09-10.43.37:267][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_Male_Mask2C7EA7B5414FD17729E8AD9CB882F630.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_Male_Mask.uasset'
+[2021.02.09-10.43.37:399][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_Male_N4EBD85304A0CDCFFFA18DAA3BD81CA20.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_Male_N.uasset'
+[2021.02.09-10.43.37:470][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/M_Male_Body7707F5704E753B5D5D00C599191380E7.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/M_Male_Body.uasset'
+[2021.02.09-10.43.37:508][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_UE4Logo_NB8808E5E4CAE50D6F7960E8F4CCD38A2.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_UE4Logo_N.uasset'
+[2021.02.09-10.43.37:583][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/M_UE4Man_ChestLogo5A030EC34C65777A496247A59B2FFC76.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2021.02.09-10.43.37:662][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/SK_Mannequin_PhysicsAsset6CE252704C6E2E78BD50F49189B799E8.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2021.02.09-10.43.37:945][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/SK_MannequinBBA7339C4F7B49E8F9978BBBD0A00D73.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2021.02.09-10.43.38:011][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonJump_EndD84970194CB0070370A79DB6CEC0C72E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2021.02.09-10.43.38:075][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/MI_Female_BodyA12C827F47561766C24A6EB96B182496.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Materials/MI_Female_Body.uasset'
+[2021.02.09-10.43.39:513][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/SK_Mannequin_Female1B7F73C94EDEE7ED30F437AA3C4A2C7E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset'
+[2021.02.09-10.43.39:856][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/SK_Mannequin_Female_PhysicsAssetBB88063142D953C2CDC75D805EEF71ED.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset'
+[2021.02.09-10.43.39:908][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_Female_Mask6FA7F1274D7DF381DC95B89965A3C840.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_Female_Mask.uasset'
+[2021.02.09-10.43.40:472][314]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 93
+[2021.02.09-10.43.40:492][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/T_Female_NF7B88EF74E09E45036986780B0F53CDF.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/Mannequin/Character/Textures/T_Female_N.uasset'
+[2021.02.09-10.43.40:777][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.02.09-10.43.40:782][314]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 83
+[2021.02.09-10.43.40:789][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.09-10.43.40:797][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.02.09-10.43.40:804][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.09-10.43.40:812][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.09-10.43.40:819][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.09-10.43.40:838][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.09-10.43.40:844][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.02.09-10.43.40:851][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.09-10.43.40:858][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.09-10.43.40:866][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.09-10.43.40:872][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.02.09-10.43.40:879][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.02.09-10.43.40:886][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.09-10.43.40:894][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.09-10.43.40:901][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.02.09-10.43.40:909][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.09-10.43.40:917][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.09-10.43.40:928][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.09-10.43.40:935][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.09-10.43.40:942][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.02.09-10.43.40:959][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.09-10.43.40:965][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.02.09-10.43.40:972][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.09-10.43.40:987][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.09-10.43.41:000][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.02.09-10.43.41:007][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.02.09-10.43.41:014][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.09-10.43.41:025][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.09-10.43.41:032][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.09-10.43.41:039][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.09-10.43.41:069][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.02.09-10.43.41:077][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.09-10.43.41:229][314]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 73
+[2021.02.09-10.43.41:229][314]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonCharacter6E5F7D0E45CFA98A484E158B6DB08421.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Content/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.09-10.43.41:327][314]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.09-10.43.41:327][314]LogContentValidation: Display: Validating BlendSpace1D /Game/DefaultContent/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.02.09-10.43.41:327][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating Skeleton /Game/DefaultContent/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating AnimBlueprint /Game/DefaultContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating MaterialFunction /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating MaterialFunction /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2021.02.09-10.43.41:328][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating MaterialFunction /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating MaterialFunction /Game/DefaultContent/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_Male_N.T_Male_N
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Material /Game/DefaultContent/Mannequin/Character/Materials/M_Male_Body.M_Male_Body
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_UE4Logo_N.T_UE4Logo_N
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DefaultContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating PhysicsAsset /Game/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating SkeletalMesh /Game/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating SkeletalMesh /Game/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating PhysicsAsset /Game/DefaultContent/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.SK_Mannequin_Female_PhysicsAsset
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating Blueprint /Game/DefaultContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.09-10.43.41:329][314]LogContentValidation: Display: Validating AnimSequence /Game/DefaultContent/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.02.09-10.43.41:330][314]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DefaultContent/Mannequin/Character/Materials/MI_Female_Body.MI_Female_Body
+[2021.02.09-10.43.41:330][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_Female_N.T_Female_N
+[2021.02.09-10.43.41:330][314]LogContentValidation: Display: Validating Texture2D /Game/DefaultContent/Mannequin/Character/Textures/T_Female_Mask.T_Female_Mask
+[2021.02.09-10.43.41:592][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 63
+[2021.02.09-10.43.41:944][344]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2021.02.09-10.43.42:327][365]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2021.02.09-10.43.42:434][367]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2021.02.09-10.43.43:960][434]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.02.09-10.43.47:422][624]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.02.09-10.43.47:560][627]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.02.09-10.43.48:462][681]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.02.09-10.43.48:651][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.02.09-10.43.48:789][691]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.09-10.43.48:868][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.02.09-10.43.48:925][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.02.09-10.43.49:035][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.02.09-10.43.49:709][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.02.09-10.43.50:051][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.02.09-10.43.50:296][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.02.09-10.43.50:668][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.09-10.43.50:724][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.09-10.43.50:909][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.09-10.43.50:984][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.02.09-10.43.51:106][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.02.09-10.43.51:395][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.02.09-10.43.55:561][691]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.09-10.44.03:268][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.02.09-10.44.04:590][133]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.09-10.44.04:601][133]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+	Asset Name: /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Name: /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.02.09-10.44.05:036][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.02.09-10.44.05:043][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.09-10.44.05:049][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.02.09-10.44.05:055][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.02.09-10.44.05:061][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.09-10.45.17:697][440]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.45.17:710][440]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.45.22:297][716]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2021.02.09-10.45.22:297][716]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.45.29:058][117]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.45.29:072][117]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.45.31:859][285]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2021.02.09-10.45.31:859][285]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.45.35:631][503]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.45.35:642][503]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.45.44:062][  9]LogContentBrowser: Attempting asset rename: NewFolder -> Charectors
+[2021.02.09-10.45.44:063][  9]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.45.52:433][503]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.45.52:456][503]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.45.55:476][685]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2021.02.09-10.45.55:476][685]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.46.01:300][ 27]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.46.01:314][ 27]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.46.04:418][214]LogContentBrowser: Attempting asset rename: NewFolder -> Effects
+[2021.02.09-10.46.04:419][214]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.46.13:429][743]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.46.13:442][743]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.46.16:629][935]LogContentBrowser: Attempting asset rename: NewFolder -> Dev
+[2021.02.09-10.46.16:630][935]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.46.22:370][272]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.46.22:380][272]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.46.23:951][367]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2021.02.09-10.46.23:951][367]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.46.29:057][669]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.46.29:071][669]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.46.33:508][936]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.02.09-10.46.33:508][936]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.46.36:447][106]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.46.36:460][106]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.46.40:517][350]LogContentBrowser: Attempting asset rename: NewFolder -> Fonds
+[2021.02.09-10.46.40:517][350]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.47.02:686][642]LogContentBrowser: Attempting asset rename: Fonds -> Fonts
+[2021.02.09-10.47.49:943][456]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.47.49:954][456]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.47.52:690][621]LogContentBrowser: Attempting asset rename: NewFolder -> Almar
+[2021.02.09-10.47.52:690][621]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.47.55:596][791]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.47.55:608][791]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.47.59:094][  1]LogContentBrowser: Attempting asset rename: NewFolder -> Lucy
+[2021.02.09-10.47.59:094][  1]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.48.07:005][467]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.48.07:019][467]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.48.13:777][873]LogContentBrowser: Attempting asset rename: NewFolder -> Edgar
+[2021.02.09-10.48.13:777][873]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.48.16:165][  6]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.48.16:177][  6]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.48.29:412][347]LogContentBrowser: Attempting asset rename: NewFolder -> Micheal
+[2021.02.09-10.48.29:412][347]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.48.36:041][733]LogContentBrowser: Attempting asset rename: Micheal -> Mchael
+[2021.02.09-10.48.44:282][210]LogContentBrowser: Attempting asset rename: Mchael -> Michael
+[2021.02.09-10.48.47:940][420]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.48.47:952][420]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.48.49:923][539]LogContentBrowser: Attempting asset rename: NewFolder -> Lisa
+[2021.02.09-10.48.49:923][539]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-10.48.56:064][827]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-10.48.56:077][827]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-10.48.58:600][979]LogContentBrowser: Attempting asset rename: NewFolder -> Jarno
+[2021.02.09-10.48.58:600][979]LogContentBrowser: End creating deferred item NewFolder
