@@ -1133,3 +1133,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.09-10.51.47:179][ 70]LogSavePackage: Moving 'D:/Github_D/2WeekJam/WeekJamProject/Saved/ThirdPersonExampleMap_Auto1D06890FC4EB929A4B0B718B8758D086E.tmp' to 'D:/Github_D/2WeekJam/WeekJamProject/Saved/Autosaves/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
 [2021.02.09-10.51.47:189][ 70]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DefaultContent/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.404
 [2021.02.09-10.51.47:189][ 70]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.404
+[2021.02.09-13.56.25:389][920]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.56.25:405][920]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.56.27:051][ 19]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.02.09-13.56.27:051][ 19]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.56.47:217][ 61]LogContentBrowser: Attempting asset rename: NewFolder -> MyGame
+[2021.02.09-13.56.53:736][328]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.56.53:761][328]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.56.55:413][428]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2021.02.09-13.56.55:413][428]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.56.57:568][553]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.56.57:580][553]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.57.00:032][701]LogContentBrowser: Attempting asset rename: NewFolder -> Effects
+[2021.02.09-13.57.00:033][701]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.57.02:054][818]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.57.02:065][818]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.57.08:985][234]LogContentBrowser: Attempting asset rename: NewFolder -> BluePrint
+[2021.02.09-13.57.08:985][234]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.57.24:573][163]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.57.24:586][163]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.57.27:688][350]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.02.09-13.57.27:689][350]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.57.31:162][550]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.57.31:174][550]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.58.06:675][ 79]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.02.09-13.58.06:675][ 79]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.58.12:874][428]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2021.02.09-13.58.16:783][657]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.58.16:795][657]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.58.16:938][666]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.02.09-13.58.16:938][666]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.58.21:766][941]LogContentBrowser: Attempting asset rename: NewFolder -> Fonts
+[2021.02.09-13.58.27:507][276]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.58.27:522][276]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.58.30:843][476]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2021.02.09-13.58.30:843][476]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.09-13.58.51:343][730]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.09-13.58.51:358][730]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.09-13.58.58:146][138]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2021.02.09-13.58.58:146][138]LogContentBrowser: End creating deferred item NewFolder
