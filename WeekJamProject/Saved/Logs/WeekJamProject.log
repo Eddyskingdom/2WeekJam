@@ -777,3 +777,769 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.15-14.17.23:631][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.02.15-14.17.23:682][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.02.15-14.17.24:900][  4]LogSlate: Took 0.016877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.15-14.18.34:082][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.15-14.18.35:594][313]LogStaticMesh: Building static mesh WindowFrame...
+[2021.02.15-14.18.35:599][313]LogStaticMesh: Built static mesh [0.01s] /Game/MyGame/Art/Meshes/WindowFrame.WindowFrame
+[2021.02.15-14.18.35:621][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:621][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:621][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:635][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:635][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:635][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:635][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:635][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:663][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:664][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:668][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:669][313]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/Maps/AlmarMap.AlmarMap
+[2021.02.15-14.18.35:677][313]Cmd: MAP LOAD FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Maps/AlmarMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.15-14.18.35:677][313]LightingResults: New page: Lighting Build
+[2021.02.15-14.18.35:692][313]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.02.15-14.18.35:692][313]LoadErrors: New page: Loading map: AlmarMap.umap
+[2021.02.15-14.18.35:700][313]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.18.35:700][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.18.35:700][313]MapCheck: New page: Map Check
+[2021.02.15-14.18.35:700][313]LightingResults: New page: Lighting Build
+[2021.02.15-14.18.35:724][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.02.15-14.18.35:725][313]LogAudio: Display: Audio Device (ID: 1) registered with world 'AlmarMap'.
+[2021.02.15-14.18.35:744][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:744][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:746][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:746][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:747][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:747][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:750][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:750][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:756][313]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.18.35:864][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.15-14.18.35:864][313]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.18.35:875][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.15-14.18.35:895][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.15-14.18.35:895][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2021.02.15-14.18.35:895][313]LogFileHelpers: Loading map 'AlmarMap' took 0.217
+[2021.02.15-14.19.18:684][458]MapCheck: New page: Map Check
+[2021.02.15-14.19.18:724][458]LightingResults: New page: Lighting Build - 15 Feb 2021, 16:19:18
+[2021.02.15-14.19.18:839][458]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.15-14.19.18:940][458]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.15-14.19.18:952][458]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.15-14.19.19:477][458]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.15-14.19.19:477][458]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7616
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.15-14.19.26:495][458]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.15-14.19.26:699][458]LogEditorBuildUtils: Build time 0:07
+[2021.02.15-14.19.27:032][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.15-14.19.35:745][ 79]LightingResults: Warning: WallWindow Object has overlapping UVs.
+[2021.02.15-14.19.35:745][ 79]LightingResults: WallWindow Lightmap UV are overlapping by 48.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.15-14.19.38:682][289]LightingResults: Warning: WallWindow Object has overlapping UVs.
+[2021.02.15-14.19.38:682][289]LightingResults: WallWindow Lightmap UV are overlapping by 48.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.15-14.19.39:234][314]LightingResults: Warning: WallWindow Object has overlapping UVs.
+[2021.02.15-14.19.39:235][314]LightingResults: WallWindow Lightmap UV are overlapping by 48.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.15-14.19.39:345][320]LightingResults: Warning: WallWindow Object has overlapping UVs.
+[2021.02.15-14.19.39:398][321]LightingResults: WallWindow Lightmap UV are overlapping by 48.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.15-14.19.41:905][510]Job is a success!
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:          1: 9.2% covering 10.9% of volume
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:          2: 89.5% covering 1.7% of volume
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.15-14.19.43:129][511]LogVolumetricLightmapImport:          AlmarMap 			 152 bricks 	 100.0% (Persistent Level)
+[2021.02.15-14.19.44:065][511]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.02.15-14.19.44:065][511]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.02.15-14.19.44:065][511]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.02.15-14.19.44:065][511]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.02.15-14.19.44:218][511]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X64)
+[2021.02.15-14.19.44:218][511]Lightmass on DESKTOP-I4G3ID8: 15.7 sec total, 657 ms importing, 50 ms setup, 1.62 sec photons, 13.2 sec processing, 0 ms extra exporting [63/63 mappings]. Threads: 52.8 sec total, 22.1 sec processing.
+[2021.02.15-14.19.44:232][511]LogStaticLightingSystem: AlmarMap_BuiltData storing lightmap data for 63 meshes in 3 LightmapResourceClusters (21.0 Meshes per cluster).
+[2021.02.15-14.19.44:246][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.02.15-14.19.44:267][511]LogStaticLightingSystem: Illumination: 25.5 sec (940 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2021.02.15-14.19.44:267][511]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.02.15-14.19.44:267][511]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.02.15-14.19.44:513][511]DumpUnbuiltLightIteractions
+[2021.02.15-14.19.44:513][511]Lights with unbuilt interactions: 0
+[2021.02.15-14.19.44:513][511]
+[2021.02.15-14.19.44:513][511]Primitives with unbuilt interactions: 0
+[2021.02.15-14.19.44:605][511]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.02.15-14.19.44:679][511]LogSlate: Took 0.018525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.15-14.19.44:683][512]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.15-14.19.44:683][512]MapCheck: New page: AlmarMap - 15 Feb 2021, 16:19:44
+[2021.02.15-14.19.44:683][512]MapCheck: Warning: Floor_14 Static mesh actor has NULL StaticMesh property 
+[2021.02.15-14.19.44:684][512]MapCheck: Warning: Dresser SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.02.15-14.19.44:684][512]MapCheck: Warning: Dresser Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.02.15-14.19.44:684][512]MapCheck: Warning: Dresser2_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.02.15-14.19.44:684][512]MapCheck: Warning: Dresser2_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.02.15-14.19.44:684][512]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 1,048ms to complete.
+[2021.02.15-14.19.48:514][789]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.19.48:527][789]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.19.54:455][373]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.19.54:470][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.19.54:470][373]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:19:54)
+[2021.02.15-14.19.54:472][373]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.15-14.19.54:473][373]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.15-14.19.54:473][373]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.19.54:485][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011982s)
+[2021.02.15-14.19.54:524][373]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.19.54:524][373]LogPlayLevel: PIE: World Init took: (0.039564s)
+[2021.02.15-14.19.54:524][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.051713s)
+[2021.02.15-14.19.54:531][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.02.15-14.19.54:531][373]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.19.54:532][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.19.54:532][373]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.19.54:532][373]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.19.54:536][373]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.19.54:536][373]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.19.54:565][373]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.19.54:565][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.19.54:566][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.19.54:566][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.19.54:566][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.19.54:566][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.19.54:566][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.19.54:590][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.19.54:590][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.19.54:590][373]LogInit: FAudioDevice initialized.
+[2021.02.15-14.19.54:590][373]LogAudio: Display: Audio Device (ID: 2) registered with world 'AlmarMap'.
+[2021.02.15-14.19.54:599][373]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:604][373]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.19.54
+[2021.02.15-14.19.54:604][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:605][373]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.19.54:605][373]LogWorld: Bringing up level for play took: 0.003904
+[2021.02.15-14.19.54:605][373]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.02.15-14.19.54:652][373]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.15-14.19.54:668][373]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.19.54:672][373]PIE: Server logged in
+[2021.02.15-14.19.54:674][373]PIE: Play in editor total start time 0,205 seconds.
+[2021.02.15-14.19.54:813][374]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [5] Items
+[2021.02.15-14.20.13:182][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.20.13:182][339]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.20.13:182][339]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.20.13:183][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.20.13:191][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.20.13:199][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.20.13:206][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.20.13:207][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.20.13:207][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.20.13:235][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.15-14.20.13:304][340]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.15-14.20.19:753][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2021.02.15-14.20.28:775][903]LogSlate: Took 0.084241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.15-14.20.32:528][227]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyGame/Art/Meshes/Door.Door
+[2021.02.15-14.20.33:582][227]LogRenderer: Reallocating scene render targets to support 1552x920 Format 10 NumSamples 1 (Frame:1).
+[2021.02.15-14.20.35:847][339]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MyGame/Art/Materials/MI_WoodPolished3.MI_WoodPolished3
+[2021.02.15-14.20.35:871][339]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.02.15-14.20.47:927][964]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.20.47:942][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.20.47:942][964]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:20:47)
+[2021.02.15-14.20.47:942][964]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.20.47:955][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012706s)
+[2021.02.15-14.20.47:956][964]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.20.47:957][964]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2021.02.15-14.20.47:957][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.014279s)
+[2021.02.15-14.20.48:333][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.15-14.20.48:335][964]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.20.48:335][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.20.48:335][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.20.48:336][964]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.20.48:336][964]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.20.48:345][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.20.48:345][964]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.20.48:376][964]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.20.48:376][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.20.48:376][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.20.48:376][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.20.48:376][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.20.48:376][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.20.48:377][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.20.48:400][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.20.48:400][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.20.48:400][964]LogInit: FAudioDevice initialized.
+[2021.02.15-14.20.48:400][964]LogAudio: Display: Audio Device (ID: 3) registered with world 'AlmarMap'.
+[2021.02.15-14.20.48:410][964]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.20.48
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:414][964]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.20.48:415][964]LogWorld: Bringing up level for play took: 0.003754
+[2021.02.15-14.20.48:415][964]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.15-14.20.48:419][964]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.20.48:423][964]PIE: Server logged in
+[2021.02.15-14.20.48:424][964]PIE: Play in editor total start time 0,483 seconds.
+[2021.02.15-14.20.48:456][965]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [5] Items
+[2021.02.15-14.21.15:391][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.21.15:391][387]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.21.15:391][387]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.21.15:392][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.21.15:398][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.21.15:416][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.21.15:424][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-14.21.15:425][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.21.15:426][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.21.15:447][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.21.15:454][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.15-14.21.16:088][388]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.15-14.21.36:435][595]LogEditorViewport: Clicking on Actor (LMB): DecalActor (Grime1_26)
+[2021.02.15-14.21.37:433][666]Cmd: EDIT COPY
+[2021.02.15-14.21.37:766][689]Cmd: EDIT PASTE
+[2021.02.15-14.21.50:212][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.02.15-14.21.56:745][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_FollowCamera_C (BP_FollowCamera4)
+[2021.02.15-14.23.21:517][849]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Almar\Downloads\WallRack.fbx)
+[2021.02.15-14.23.21:531][849]LogFbx: Loading FBX Scene from C:\Users\Almar\Downloads\WallRack.fbx
+[2021.02.15-14.23.21:536][849]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.15-14.23.24:232][849]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.15-14.23.24:314][849]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.02.15-14.23.24:369][849]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.02.15-14.23.24:369][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.02.15-14.23.24:369][849]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.02.15-14.23.24:369][849]LogFbx: Display: Triangulating static mesh Cube
+[2021.02.15-14.23.24:373][849]LogStaticMesh: Building static mesh WallRack...
+[2021.02.15-14.23.24:379][849]LogStaticMesh: Built static mesh [0.01s] /Game/MyGame/BluePrint/Jonino/WallRack.WallRack
+[2021.02.15-14.23.24:389][849]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.02.15-14.23.26:155][915]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.23.26:180][915]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.23.27:873][982]LogActorFactory: Actor Factory created WallRack
+[2021.02.15-14.23.29:864][ 80]LogActorFactory: Actor Factory created WallRack
+[2021.02.15-14.23.49:574][343]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyGame/BluePrint/Jonino/WallRack.WallRack
+[2021.02.15-14.25.43:936][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.15-14.25.45:408][861]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.15-14.25.45:849][861]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.25.45:849][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.25.45:868][861]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/MyGame/BluePrint/Jonino/WallRack.WallRack
+	Asset Name: /Game/MyGame/BluePrint/Jonino/Material.Material
+[2021.02.15-14.25.46:338][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.15-14.26.35:774][514]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Almar\Downloads\WallRack(1).fbx)
+[2021.02.15-14.26.35:785][514]LogFbx: Loading FBX Scene from C:\Users\Almar\Downloads\WallRack(1).fbx
+[2021.02.15-14.26.35:792][514]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.15-14.26.38:032][514]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.15-14.26.38:086][514]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.02.15-14.26.38:104][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.02.15-14.26.38:104][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.02.15-14.26.38:105][514]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.02.15-14.26.38:106][514]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.02.15-14.26.38:117][514]LogFbx: Display: Triangulating static mesh Cube
+[2021.02.15-14.26.38:123][514]LogStaticMesh: Building static mesh WallRack_1_...
+[2021.02.15-14.26.38:130][514]LogStaticMesh: Built static mesh [0.01s] /Game/MyGame/Art/WallRack_1_.WallRack_1_
+[2021.02.15-14.26.38:137][514]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.02.15-14.26.40:044][603]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.26.40:070][603]LogSlate: Window 'Message Log' being destroyed
+[2021.02.15-14.26.45:321][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.15-14.26.46:339][818]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.15-14.26.46:358][818]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/MyGame/Art/Material_001.Material_001
+	Asset Name: /Game/MyGame/Art/Material.Material
+[2021.02.15-14.26.46:528][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.15-14.26.50:155][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Art/Meshes/WallRack_1_" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset" SILENT=true
+[2021.02.15-14.26.50:171][990]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/WallRack_1_F86FCEE64326D1992B06FF8C1F9E1BF5.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset'
+[2021.02.15-14.26.50:301][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.15-14.26.50:340][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.15-14.26.50:347][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.02.15-14.26.50:416][990]AssetCheck: New page: Asset Save: WallRack_1_
+[2021.02.15-14.26.50:416][990]LogContentValidation: Display: Validating StaticMesh /Game/MyGame/Art/Meshes/WallRack_1_.WallRack_1_
+[2021.02.15-14.26.57:402][197]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.02.15-14.27.00:884][254]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyGame/Art/Meshes/WallRack_1_.WallRack_1_
+[2021.02.15-14.27.22:705][109]LogActorFactory: Actor Factory created WallRack_1_
+[2021.02.15-14.27.23:388][136]LogActorFactory: Actor Factory created WallRack_1_
+[2021.02.15-14.28.16:353][587]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.28.16:366][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.28.16:366][587]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:28:16)
+[2021.02.15-14.28.16:366][587]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.28.16:378][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012566s)
+[2021.02.15-14.28.16:379][587]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.28.16:380][587]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2021.02.15-14.28.16:380][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.014109s)
+[2021.02.15-14.28.17:564][587]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.02.15-14.28.17:564][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.15-14.28.17:569][587]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.28.17:569][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.28.17:569][587]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.28.17:569][587]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.28.17:574][587]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.28.17:574][587]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.28.17:608][587]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.28.17:608][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.28.17:608][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.28.17:608][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.28.17:608][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.28.17:609][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.28.17:609][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.28.17:630][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.28.17:630][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.28.17:630][587]LogInit: FAudioDevice initialized.
+[2021.02.15-14.28.17:630][587]LogAudio: Display: Audio Device (ID: 4) registered with world 'AlmarMap'.
+[2021.02.15-14.28.17:642][587]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:646][587]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.28.17
+[2021.02.15-14.28.17:647][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:647][587]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.28.17:647][587]LogWorld: Bringing up level for play took: 0.003567
+[2021.02.15-14.28.17:647][587]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.02.15-14.28.17:650][587]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.28.17:653][587]PIE: Server logged in
+[2021.02.15-14.28.17:654][587]PIE: Play in editor total start time 1,29 seconds.
+[2021.02.15-14.28.17:690][588]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [1] Items
+[2021.02.15-14.28.25:245][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.02.15-14.28.31:582][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.28.31:582][719]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.28.31:582][719]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.28.31:583][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.28.31:590][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.28.31:607][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.28.34:121][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.02.15-14.28.34:121][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.02.15-14.28.34:121][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-14.28.34:121][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.28.34:122][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.28.34:148][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.28.34:152][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.02.15-14.28.34:212][720]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.15-14.29.14:311][833]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/MyGame/BluePrint/Jonino/Interactable/InteractableObjectData.InteractableObjectData
+[2021.02.15-14.29.50:996][ 10]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/InteractableObjectData62897D0A4E8C778E1B44D1BBD8985B6F.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/BluePrint/Jonino/Interactable/InteractableObjectData.uasset'
+[2021.02.15-14.29.51:025][ 10]AssetCheck: New page: Asset Save: InteractableObjectData
+[2021.02.15-14.29.51:025][ 10]LogContentValidation: Display: Validating DataTable /Game/MyGame/BluePrint/Jonino/Interactable/InteractableObjectData.InteractableObjectData
+[2021.02.15-14.29.57:636][250]LogRenderer: Reallocating scene render targets to support 2144x1376 Format 10 NumSamples 1 (Frame:6889).
+[2021.02.15-14.29.57:977][252]LogRenderer: Reallocating scene render targets to support 2868x1920 Format 10 NumSamples 1 (Frame:6891).
+[2021.02.15-14.30.48:486][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Art/Meshes/WallRack_1_" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset" SILENT=true
+[2021.02.15-14.30.48:518][845]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/WallRack_1_716A0CDD4C58CF8D943904A475960F3A.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset'
+[2021.02.15-14.30.48:544][845]AssetCheck: New page: Asset Save: WallRack_1_
+[2021.02.15-14.30.48:544][845]LogContentValidation: Display: Validating StaticMesh /Game/MyGame/Art/Meshes/WallRack_1_.WallRack_1_
+[2021.02.15-14.30.50:354][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRack_1_)
+[2021.02.15-14.30.51:553][926]Cmd: DELETE
+[2021.02.15-14.30.51:576][926]Cmd: ACTOR DELETE
+[2021.02.15-14.30.51:723][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.15-14.30.51:736][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.02.15-14.30.51:741][926]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2021.02.15-14.31.05:308][233]LogEditorViewport: Clicking on Actor (LMB): BP_Interactable_C (BP_Interactable3)
+[2021.02.15-14.31.18:185][566]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.31.18:199][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.31.18:199][566]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:31:18)
+[2021.02.15-14.31.18:200][566]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.31.18:214][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013940s)
+[2021.02.15-14.31.18:215][566]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.31.18:215][566]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2021.02.15-14.31.18:215][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.015256s)
+[2021.02.15-14.31.18:232][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.15-14.31.18:234][566]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.31.18:234][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.31.18:234][566]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.31.18:234][566]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.31.18:597][566]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.31.18:597][566]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.31.18:629][566]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.31.18:630][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.31.18:630][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.31.18:630][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.31.18:630][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.31.18:630][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.31.18:630][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.31.18:651][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.31.18:651][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.31.18:651][566]LogInit: FAudioDevice initialized.
+[2021.02.15-14.31.18:651][566]LogAudio: Display: Audio Device (ID: 5) registered with world 'AlmarMap'.
+[2021.02.15-14.31.18:662][566]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:665][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:666][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:666][566]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.31.18
+[2021.02.15-14.31.18:666][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:666][566]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.18:666][566]LogWorld: Bringing up level for play took: 0.003975
+[2021.02.15-14.31.18:667][566]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.15-14.31.18:670][566]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.31.18:709][566]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2021.02.15-14.31.18:711][566]PIE: Server logged in
+[2021.02.15-14.31.18:712][566]PIE: Play in editor total start time 0,514 seconds.
+[2021.02.15-14.31.18:755][567]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [4] Items
+[2021.02.15-14.31.37:731][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.31.37:731][147]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.31.37:732][147]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.31.37:732][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.31.37:746][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.31.37:754][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.31.37:762][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-14.31.37:763][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.31.37:764][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.31.37:806][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.31.37:812][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.02.15-14.31.37:896][148]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.15-14.31.41:443][259]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.31.41:458][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.31.41:458][259]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:31:41)
+[2021.02.15-14.31.41:458][259]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.31.41:471][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013184s)
+[2021.02.15-14.31.41:472][259]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.31.41:473][259]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2021.02.15-14.31.41:473][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.014568s)
+[2021.02.15-14.31.41:481][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.15-14.31.41:482][259]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.31.41:482][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.31.41:483][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.31.41:483][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.31.41:483][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.31.41:488][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.31.41:488][259]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.31.41:530][259]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.31.41:530][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.31.41:530][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.31.41:531][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.31.41:531][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.31.41:531][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.31.41:531][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.31.41:554][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.31.41:554][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.31.41:554][259]LogInit: FAudioDevice initialized.
+[2021.02.15-14.31.41:554][259]LogAudio: Display: Audio Device (ID: 6) registered with world 'AlmarMap'.
+[2021.02.15-14.31.41:562][259]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:566][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:567][259]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.31.41
+[2021.02.15-14.31.41:567][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:567][259]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.31.41:567][259]LogWorld: Bringing up level for play took: 0.003836
+[2021.02.15-14.31.41:567][259]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.02.15-14.31.41:571][259]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.31.41:574][259]PIE: Server logged in
+[2021.02.15-14.31.41:575][259]PIE: Play in editor total start time 0,118 seconds.
+[2021.02.15-14.31.41:638][260]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [2] Items
+[2021.02.15-14.31.47:851][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.31.47:851][784]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.31.47:852][784]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.31.47:852][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.31.47:866][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.31.47:874][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.31.47:893][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.31.47:894][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.31.47:895][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.31.47:937][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.15-14.31.48:005][785]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.15-14.32.22:850][ 95]Cmd: DELETE
+[2021.02.15-14.32.22:850][ 95]Cmd: ACTOR DELETE
+[2021.02.15-14.32.22:854][ 95]LogEditorActor: Deleted Actor: BP_Interactable_C
+[2021.02.15-14.32.22:886][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.15-14.32.22:889][ 95]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.02.15-14.32.24:386][143]LogEditorViewport: Clicking on Actor (LMB): BP_Interactable_C (BP_Interactable3)
+[2021.02.15-14.32.25:239][169]Cmd: DELETE
+[2021.02.15-14.32.25:239][169]Cmd: ACTOR DELETE
+[2021.02.15-14.32.25:243][169]LogEditorActor: Deleted Actor: BP_Interactable_C
+[2021.02.15-14.32.25:276][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.15-14.32.25:277][169]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.02.15-14.32.26:204][200]Cmd: TRANSACTION UNDO
+[2021.02.15-14.32.26:204][200]LogEditorTransaction: Undo Delete Actors
+[2021.02.15-14.32.27:824][231]LogEditorViewport: Clicking on Actor (LMB): BP_Interactable_C (BP_Interactable)
+[2021.02.15-14.32.29:531][286]Cmd: DELETE
+[2021.02.15-14.32.29:531][286]Cmd: ACTOR DELETE
+[2021.02.15-14.32.29:535][286]LogEditorActor: Deleted Actor: BP_Interactable_C
+[2021.02.15-14.32.29:561][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.02.15-14.32.29:563][286]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.02.15-14.32.32:615][397]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-14.32.32:639][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-14.32.32:640][397]PIE: New page: PIE session: AlmarMap (15 Feb 2021, 16:32:32)
+[2021.02.15-14.32.32:640][397]LogPlayLevel: Creating play world package: /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.32.32:653][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013383s)
+[2021.02.15-14.32.32:654][397]LogAIModule: Creating AISystem for world AlmarMap
+[2021.02.15-14.32.32:654][397]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2021.02.15-14.32.32:654][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Maps/AlmarMap.AlmarMap to /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap (0.014817s)
+[2021.02.15-14.32.32:662][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.15-14.32.32:663][397]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-14.32.32:663][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-14.32.32:663][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-14.32.32:664][397]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-14.32.32:664][397]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-14.32.32:668][397]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-14.32.32:668][397]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-14.32.32:711][397]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.15-14.32.32:711][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-14.32.32:711][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-14.32.32:711][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-14.32.32:711][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-14.32.32:712][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-14.32.32:712][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-14.32.32:735][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-14.32.32:735][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-14.32.32:735][397]LogInit: FAudioDevice initialized.
+[2021.02.15-14.32.32:735][397]LogAudio: Display: Audio Device (ID: 7) registered with world 'AlmarMap'.
+[2021.02.15-14.32.32:744][397]LogLoad: Game class is 'GM_TEST_C'
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:747][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:748][397]LogWorld: Bringing World /Game/MyGame/Maps/UEDPIE_0_AlmarMap.AlmarMap up for play (max tick rate 0) at 2021.02.15-15.32.32
+[2021.02.15-14.32.32:748][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:748][397]LogSkinnedMeshComp: Warning: GetSocketByName(Dresser): No SkeletalMesh for Component(SkeletalMeshComponent0) Actor(Dresser)
+[2021.02.15-14.32.32:748][397]LogWorld: Bringing up level for play took: 0.003564
+[2021.02.15-14.32.32:748][397]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.15-14.32.32:752][397]LogBlueprintUserMessages: [BP_CameraManager_2] [CAMERAMANAGER]: Found [4] Camera's
+[2021.02.15-14.32.32:754][397]PIE: Server logged in
+[2021.02.15-14.32.32:754][397]PIE: Play in editor total start time 0,116 seconds.
+[2021.02.15-14.32.32:808][398]LogBlueprintUserMessages: [BP_ItemSpawnManager_2] SPAWNED [0] Items
+[2021.02.15-14.32.43:472][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.32.43:472][305]LogWorld: BeginTearingDown for /Game/MyGame/Maps/UEDPIE_0_AlmarMap
+[2021.02.15-14.32.43:472][305]LogWorld: UWorld::CleanupWorld for AlmarMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.32.43:473][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.32.43:483][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-14.32.43:486][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.32.43:532][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-14.32.43:533][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.32.43:534][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.32.43:561][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-14.32.43:567][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.15-14.32.43:615][306]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.15-14.32.44:323][324]Cmd: TRANSACTION UNDO
+[2021.02.15-14.32.44:323][324]LogEditorTransaction: Undo Delete Actors
+[2021.02.15-14.32.48:031][418]LogEditorViewport: Clicking on Actor (LMB): BP_Interactable_C (BP_Interactable3)
+[2021.02.15-14.33.03:157][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.15-14.33.03:207][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Maps/AlmarMap" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Maps/AlmarMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.15-14.33.03:229][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.15-14.33.03:395][  4]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/AlmarMapBFD881F948074E7F35701A81566BA576.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Maps/AlmarMap.umap'
+[2021.02.15-14.33.03:425][  4]LogFileHelpers: Saving map 'AlmarMap' took 0.220
+[2021.02.15-14.33.03:454][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Maps/AlmarMap_BuiltData" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Maps/AlmarMap_BuiltData.uasset" SILENT=true
+[2021.02.15-14.33.03:573][  4]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/AlmarMap_BuiltData0936C98946FC49D9B2252AA7F4D9D93A.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Maps/AlmarMap_BuiltData.uasset'
+[2021.02.15-14.33.03:588][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Art/Materials/MI_WoodPolished3" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Materials/MI_WoodPolished3.uasset" SILENT=true
+[2021.02.15-14.33.03:594][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.02.15-14.33.03:625][  4]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.15-14.33.04:213][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.02.15-14.33.04:213][  4]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.02.15-14.33.06:517][  4]TextureStreamingBuild: Display: Compiling optional shaders took 2.898 seconds.
+[2021.02.15-14.33.06:554][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.02.15-14.33.06:604][  4]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/MI_WoodPolished358D2468B4EEA0E39C73C78B451B439DD.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Materials/MI_WoodPolished3.uasset'
+[2021.02.15-14.33.06:606][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Art/Meshes/WallRack_1_" FILE="../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset" SILENT=true
+[2021.02.15-14.33.06:664][  4]LogSavePackage: Moving '../../../../../Blok3/WeekJamProject/Saved/WallRack_1_BCB645C0498E8EFFADAEFDA4C9A658B1.tmp' to '../../../../../Blok3/WeekJamProject/Content/MyGame/Art/Meshes/WallRack_1_.uasset'
+[2021.02.15-14.33.06:724][  4]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.15-14.33.06:725][  4]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame/Maps/AlmarMap_BuiltData.AlmarMap_BuiltData
+[2021.02.15-14.33.06:725][  4]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MyGame/Art/Materials/MI_WoodPolished3.MI_WoodPolished3
+[2021.02.15-14.33.06:725][  4]LogContentValidation: Display: Validating World /Game/MyGame/Maps/AlmarMap.AlmarMap
+[2021.02.15-14.33.06:725][  4]LogContentValidation: Display: Validating StaticMesh /Game/MyGame/Art/Meshes/WallRack_1_.WallRack_1_
+[2021.02.15-14.33.09:914][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.15-14.33.10:761][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.10:761][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.33.10:789][ 18]LogSlate: Window 'MI_WoodPolished3' being destroyed
+[2021.02.15-14.33.10:811][ 18]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.10:811][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.33.10:997][ 18]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.10:997][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-14.33.11:186][ 18]LogSlate: Window 'WeekJamProject - Unreal Editor' being destroyed
+[2021.02.15-14.33.11:221][ 18]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.15-14.33.11:586][ 19]Cmd: QUIT_EDITOR
+[2021.02.15-14.33.11:586][ 19]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.02.15-14.33.11:637][ 19]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.02.15-14.33.12:507][ 19]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.02.15-14.33.12:508][ 19]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.02.15-14.33.12:508][ 19]LogAudio: Display: Audio Device unregistered from world 'AlmarMap'.
+[2021.02.15-14.33.12:508][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.33.12:509][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-14.33.12:549][ 19]LogAudio: Display: Audio Device Manager Shutdown
+[2021.02.15-14.33.12:574][ 19]LogExit: Preparing to exit.
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7500] Windows
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7400] Default__DeviceProfile
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8C00] WindowsNoEditor
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4C00] WindowsServer
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CB100] WindowsClient
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7000] IOS
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C9300] iPadAir
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B5300] iPadAir2
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984D00] IPadPro
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984E00] iPadAir3
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6C00] iPadAir4
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987A00] iPadMini2
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B5400] iPadMini3
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986200] iPadMini4
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7700] iPadMini5
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA700] iPhone6
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA600] iPodTouch6
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987200] iPhone7
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987000] iPodTouch7
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CBE00] iPhone5S
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984B00] iPhone6Plus
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8800] iPhone6S
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986400] iPhone6SPlus
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C9200] iPhone7Plus
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986500] iPhoneSE
+[2021.02.15-14.33.13:356][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA400] iPhone8
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987300] iPhone8Plus
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CBF00] iPhoneX
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986700] iPhoneXS
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C9100] iPhoneXSMax
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984300] iPhoneXR
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C9B00] iPhone11
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985B00] iPhone11Pro
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8900] iPhone11ProMax
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985700] iPhoneSE2
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8500] iPhone12Mini
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985800] iPhone12
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA300] iPhone12Pro
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985A00] iPhone12ProMax
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8300] iPadPro105
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984F00] iPadPro129
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA900] iPadPro97
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984800] iPadPro2_129
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8D00] iPad5
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985E00] iPad6
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CB800] iPad7
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987600] iPad8
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C9A00] iPadPro11
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985900] iPadPro2_11
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25C8400] iPadPro3_129
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987C00] iPadPro4_129
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CB900] AppleTV
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3987900] AppleTV4K
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CA200] TVOS
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985400] Mac
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CB500] MacClient
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985100] MacNoEditor
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25CB300] MacServer
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269D300] Linux
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6400] LinuxNoEditor
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269D800] LinuxAArch64NoEditor
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7F00] LinuxClient
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269D500] LinuxAArch64Client
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6200] LinuxServer
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269D100] LinuxAArch64Server
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7200] Android
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269CA00] Android_Low
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4400] Android_Mid
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269CC00] Android_High
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B5200] Android_Default
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F269D200] Android_Adreno4xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6E00] Android_Adreno5xx_Low
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984200] Android_Adreno5xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4D00] Android_Adreno6xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984500] Android_Adreno6xx_Vulkan
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4700] Android_Mali_T6xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3985C00] Android_Mali_T7xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6B00] Android_Mali_T8xx
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986E00] Android_Mali_G71
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B5800] Android_Mali_G72
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986C00] Android_Mali_G72_Vulkan
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B7900] Android_Mali_G76
+[2021.02.15-14.33.13:357][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986100] Android_Mali_G76_Vulkan
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4B00] Android_Mali_G77
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984A00] Android_Mali_G77_Vulkan
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6A00] Android_Vulkan_SM5
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984900] Android_PowerVR_G6xxx
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B4F00] Android_PowerVR_GT7xxx
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986F00] Android_PowerVR_GE8xxx
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B5600] Android_PowerVR_GM9xxx
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3986D00] Android_PowerVR_GM9xxx_Vulkan
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6900] Android_TegraK1
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984C00] Android_Unknown_Vulkan
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6F00] Lumin
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F3984400] Lumin_Desktop
+[2021.02.15-14.33.13:358][ 19]LogDeviceProfile: Device profile begin destroy: [00000203F25B6100] HoloLens
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:691][ 19]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.15-14.33.13:692][ 19]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-14.33.13:884][ 19]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.02.15-14.33.14:306][ 19]LogExit: Editor shut down
+[2021.02.15-14.33.14:307][ 19]LogExit: Transaction tracking system shut down
